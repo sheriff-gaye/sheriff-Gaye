@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-|My github statistics|My languages|This profile's visit times|
-|-|-|-|
-|[![Sheriff's github stats](https://github-readme-stats.vercel.app/api?username=sheriff-gaye&show_icons=true&theme=dark&hide_title=true)](https://github.com/sheriff-gaye)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheriff-gaye&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/sheriff-gaye)|![Visitors](https://profile-counter.glitch.me/%7Bsheriff-gaye%7D/count.svg)
-___
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=sheriff-gaye&show_icons=true&theme=jolly&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheriff-gaye&langs_count=8&theme=jolly&layout=compact" />
+</a>
