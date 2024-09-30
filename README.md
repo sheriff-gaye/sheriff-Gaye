@@ -9,7 +9,7 @@ I'm an enthusiastic developer who thrives on collaboration, eagerly sharing idea
 ## 📚 Writing
 Besides developing, I also run a [Clean Code Hub](https://www.instagram.com/cleancode_hub/?hl=en)
 <br>
-I am also  a  Grphic Designer [Gaye Tech Graphics](https://www.instagram.com/gayetech_graphics/?hl=en)
+I am also a Graphic Designer [Gaye Tech Graphics](https://www.instagram.com/gayetech_graphics/?hl=en)
 
 
 ## 🛠️ Technologies & Tools
