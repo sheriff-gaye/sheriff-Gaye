@@ -1,5 +1,5 @@
 
- <a href='https://pngtree.com/freebackground/abstract-technology-circuit-banner-background_1305405.html'></a>
+ <img src="/—Pngtree—abstract technology circuit banner background_1305405.jpg" alt="image" fill/>
  ## 👋 Hello! 
 I'm Sheriff Gaye, a dedicated Software Engineer passionate about leveraging technology to solve real-life problems. Proficient in HTML, CSS, JavaScript, React, Next.js, Node.js, Python, PHP, Laravel, Tailwind CSS, MongoDB, Postgres, SQL, and Docker.
 
