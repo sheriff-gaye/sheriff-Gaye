@@ -1,6 +1,7 @@
 
  <img src="/—Pngtree—abstract technology circuit banner background_1305405.jpg" alt="image" fill/>
- ## Hello!
+ ## Hello
+ <br>
 I'm Sheriff Gaye, a dedicated Software Engineer passionate about leveraging technology to solve real-life problems. Proficient in HTML, CSS, JavaScript, React, Next.js, Node.js, Python, PHP, Laravel, Tailwind CSS, MongoDB, Postgres, SQL, and Docker.
 
 
