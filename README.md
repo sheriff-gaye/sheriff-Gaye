@@ -1,6 +1,6 @@
 
  <img src="/—Pngtree—abstract technology circuit banner background_1305405.jpg" alt="image" fill/>
- ## Hello
+ ## Short Bio
  <br>
 I'm Sheriff Gaye, a dedicated Software Engineer passionate about leveraging technology to solve real-life problems. Proficient in HTML, CSS, JavaScript, React, Next.js, Node.js, Python, PHP, Laravel, Tailwind CSS, MongoDB, Postgres, SQL, and Docker.
 
@@ -26,9 +26,6 @@ I am also a Graphic Designer [Gaye Tech Graphics](https://www.instagram.com/gaye
 ![](https://img.shields.io/badge/Tool-Laravel-informational?style=flat&color=warning&logo=laravel)
 
 
-
-
-
 ## 📊 Statistics
-[![Sheriff Gaye's github stats](https://github-readme-stats.vercel.app/api?username=sheriff-gaye&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sheriff Gaye's github stats](https://github-readme-stats.vercel.app/api?username=sheriff-gaye&theme=dark&count_private=true)](https://github.com/sheriff-gaye/github-readme-stats)
 
