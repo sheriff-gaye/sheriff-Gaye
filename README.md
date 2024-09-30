@@ -1,4 +1,5 @@
 
+<img src="" alt="cover_photo" fill/>
 ## 👋 Hello! 
 I'm Sheriff Gaye, a dedicated Software Engineer passionate about leveraging technology to solve real-life problems. Proficient in HTML, CSS, JavaScript, React, Next.js, Node.js, Python, PHP, Laravel, Tailwind CSS, MongoDB, Postgres, SQL, and Docker.
 
@@ -6,8 +7,9 @@ I'm Sheriff Gaye, a dedicated Software Engineer passionate about leveraging tech
 I'm an enthusiastic developer who thrives on collaboration, eagerly sharing ideas. Specializing in crafting dynamic applications, I empower small and medium businesses to enhance visibility and connectivity, effectively communicating their brand's expertise.
 
 ## 📚 Writing
-Besides developing, I also run a [Tech Conent Creation called Clean Code Hub](https://www.instagram.com/cleancode_hub/?hl=en).
-I also run a [Gaye Tech Graphics](https://www.instagram.com/cleancode_hub/?hl=en).
+Besides developing, I also run a [Clean Code Hub](https://www.instagram.com/cleancode_hub/?hl=en).
+<br>
+I am also  a  Grphic Designer [Gaye Tech Graphics](https://www.instagram.com/gayetech_graphics/?hl=en).
 
 
 ## 🛠️ Technologies & Tools
