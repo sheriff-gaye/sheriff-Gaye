@@ -1,7 +1,6 @@
 
  <img src="/—Pngtree—abstract technology circuit banner background_1305405.jpg" alt="image" fill/>
- ### Short Bio
- <br>
+
  
 I'm Sheriff Gaye, a dedicated Software Engineer passionate about leveraging technology to solve real-life problems. Proficient in HTML, CSS, JavaScript, React, Next.js, Node.js, Python, PHP, Laravel, Tailwind CSS, MongoDB, Postgres, SQL, and Docker.
 
@@ -11,7 +10,7 @@ I'm an enthusiastic developer who thrives on collaboration, eagerly sharing idea
  ## Technical Writing & Content Creation
 Besides developing, I also run a [Clean Code Hub](https://www.instagram.com/cleancode_hub/?hl=en)
 <br>
-I am also a Graphic Designer [Gaye Tech Graphics](https://www.instagram.com/gayetech_graphics/?hl=en)
+I am also a Graphic Designer [Gaye Tech Graphics](https://www.instagram.com/gayetech_designs/?hl=en)
 
 
  ## Technologies & Tools
