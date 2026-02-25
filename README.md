@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a Software Engineer specializing in **Applied Machine Learning and AI-driven systems**.
 
@@ -22,7 +22,7 @@ I build systems — not demos.
 
 ---
 
-## 🧠 Core Focus Areas
+## Core Focus Areas
 
 - End-to-end ML pipelines (data → modeling → deployment)
 - AI-powered applications for emerging markets
@@ -32,7 +32,7 @@ I build systems — not demos.
 
 ---
 
-## ⚙️ Engineering Philosophy
+## Engineering Philosophy
 
 - Clarity over complexity  
 - Systems thinking over shortcuts  
@@ -43,7 +43,7 @@ I aim to build technology that creates structural impact — not just technical 
 
 ---
 
-## 🛠 Technologies & Tools
+## Technologies & Tools
 
 ### Languages
 `Python` • `JavaScript` • `TypeScript` • `SQL`
@@ -59,7 +59,7 @@ I aim to build technology that creates structural impact — not just technical 
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sheriff-gaye&theme=dark&count_private=true" />
@@ -67,13 +67,13 @@ I aim to build technology that creates structural impact — not just technical 
 
 ---
 
-## ✍🏾 Technical Writing & Creative Work
+## Technical Writing & Creative Work
 
 - **Clean Code Hub** — Software engineering & system design insights  
 - **Gaye Tech Graphics** — Technical branding & design work  
 
 ---
 
-## 📫 Connect
+## Connect
 
 If you're building serious AI systems, data products, or scalable infrastructure — let's collaborate.
