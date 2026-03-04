@@ -15,7 +15,7 @@
 
 ---
 
-## ⚡ Core Focus
+## Core Focus
 
 | # | Area |
 |---|------|
@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠 Technologies
+##  Technologies
 
 **Languages**
 
@@ -79,14 +79,14 @@ Measurable outcomes over hype  →   Depth over trend-chasing
 
 ---
 
-## ✍️ Technical Writing & Creative Work
+##  Technical Writing & Creative Work
 
 - **Clean Code Hub** — Software engineering & system design insights
 - **Gaye Tech Graphics** — Technical branding & design work
 
 ---
 
-## 🤝 Let's Build
+##  Let's Build
 
 If you're working on serious AI systems, data products, or scalable infrastructure — let's collaborate.
 
